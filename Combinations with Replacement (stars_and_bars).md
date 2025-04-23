@@ -48,7 +48,7 @@ Each arrangement corresponds to a unique distribution.
 $\binom{5 + 3 - 1}{5} = \binom{7}{5} = 21 \text{ ways}$
 
 **Verification:**
-- The arrangements are all permutations of `★★★★★ ||` (e.g., `★||★★★★★`, `★★|★★★|`, etc.).
+- The arrangements are all permutations of `★★★★★ ||` (e.g., `★||★★★★`, `★★|★★★|`, etc.).
 - Total permutations: $\frac{7!}{5!2!} = 21$.
 
 ---
